@@ -9,8 +9,9 @@ Generate OpenPGP keypairs, encrypt text for recipients, and decrypt messages **f
 
 ## 🔗 Live App
 
+<img width="1127" height="542" alt="Screenshot 2025-11-27 at 23 18 11" src="https://github.com/user-attachments/assets/52432e5d-2783-4e94-8bab-6f6df5bf67da" />
 
-<img width="1106" height="787" alt="Screenshot 2025-10-02 at 15 34 35" src="https://github.com/user-attachments/assets/2d7a5d26-cd6a-478e-b93b-744483f486e9" />
+
 
 **https://pgp-offline.anatole.co**  
 (You can load it once, then go offline for all operations.)
