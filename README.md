@@ -1,4 +1,4 @@
-# pgp.z3r0.app
+# PGP Z3R0
 
 **A zero-server, privacy-first PGP tool in your browser.**  
 Generate OpenPGP keypairs, encrypt text for recipients, and decrypt messages **fully offline** — no data ever leaves your device.
@@ -38,7 +38,7 @@ Generate OpenPGP keypairs, encrypt text for recipients, and decrypt messages **f
 
 ## 🚀 Quick Start
 
-1. Open **[pgp.z3r0.app](https://pgp.z3r0.app/)** (optional: then disconnect from the internet).
+1. Open **[PGP Z3R0](https://pgp-offline.anatole.co)** (optional: then disconnect from the internet).
 2. **Generate keys**  
    - Go to **Generate**, choose parameters, and create your keypair.  
    - **Export** and store your private key securely (and its passphrase, if set).
