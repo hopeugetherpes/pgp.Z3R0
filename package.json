@@ -9,10 +9,10 @@
     "clsx": "^2.1.1",
     "geist": "latest",
     "lucide-react": "^0.454.0",
-    "next": "15.2.4",
+    "next": "15.5.4",
     "openpgp": "latest",
-    "react": "^19",
-    "react-dom": "^19",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "tw-animate-css": "latest"
@@ -20,8 +20,8 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.9",
     "@types/node": "^22",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
     "postcss": "^8.5",
     "tailwindcss": "^4.1.9",
     "typescript": "^5"

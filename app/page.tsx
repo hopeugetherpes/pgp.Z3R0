@@ -17,14 +17,13 @@ export default function PGPTool() {
       <header className="border-b border-gray-800 px-6 py-4">
         <div className="flex items-center justify-between">
           <a
-            href="https://pgp.z3r0.app"
+            href="https://pgp-offline.anatole.co"
             className="flex items-center gap-3 no-underline hover:opacity-80 transition-opacity"
           >
             <Image src="/logo.png" alt="PGP Logo" width={48} height={48} className="w-12 h-12 rounded" />
             <h1 className="text-2xl font-mono">
-              <span className="text-white">pgp.</span>
+              <span className="text-white">PGP </span>
               <span className="text-[#336f9c] font-bold">Z3R0</span>
-              <span className="text-white">.app</span>
             </h1>
           </a>
 
